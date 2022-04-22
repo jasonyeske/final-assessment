@@ -6,7 +6,7 @@
 
 <img src="../assets/jason.jpg" class="mr-auto ml-auto w-3/8 rounded-full">
 
-<div class="text-lg w-2/3 mr-auto ml-auto text-center  ">
+<div class="text-xl w-2/3 mr-auto ml-auto text-center  ">
 <p>My name is Jason. I was born and raised in Saskatchewan. 
     Ever since I was a youngling, I have always been a tech nerd. Whenever someone in the 
     family needs help with something tech related, I was always the one
@@ -14,7 +14,7 @@
     make a career out of the thing I love to do, create internet content.
 </p>
 <p class="mt-10">
-To get to know me a bit better, here are some things I love to do in my spare time:
+To get to know me a little bit better, here are some things I love to do in my spare time:
 </p>
 <ul class>
     <li><b>-</b> Ride my Minibike</li>

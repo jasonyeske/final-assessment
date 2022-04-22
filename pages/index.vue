@@ -1,5 +1,5 @@
 <template>
-    <div class=" bg-blue-300 text-center">
+    <div class=" bg-gradient-to-b from-blue-300 to-yellow-300 text-center">
 
 
 <TheHeader />
@@ -7,11 +7,11 @@
 <CallToAction />
 
 
-<MyWork />
 
 
 
-<BodyText />
+
+
 <TheFooter />
 </div>
 </template>

@@ -1,7 +1,7 @@
 <template>
 <div>
   
-<div class="grid grid-cols-3 w-2/3 mr-auto ml-auto ">
+<div class="grid grid-cols-3 w-4/5 mr-auto ml-auto ">
 <a href="https://www.instagram.com/p/CVlPe8ivke2/"> <img src="https://scontent.cdninstagram.com/v/t51.29350-15/249305092_392858362252243_7428635800630779484_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8ae9d6&_nc_ohc=wY-kVKNHZxgAX_5O0hu&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT-Rr9PKr0tDwYLg3Co2OtTmyu3TJr7qJjzEHsQ4Qr492g&oe=62670BE9"></a>
 
 <a href="https://www.instagram.com/p/CTf0cMdgP0M/"><img src="https://scontent.cdninstagram.com/v/t51.29350-15/241198464_818675238795613_6278215830140869040_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8ae9d6&_nc_ohc=HF1bGxQS4JgAX--ySbv&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT8Ht9Dl163bt2GI9pgTisHlNnFBEF0X5Zwu4TB8NTW0QQ&oe=6266A316"></a>

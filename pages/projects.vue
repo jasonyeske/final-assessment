@@ -3,9 +3,10 @@
 
 <TheHeader />
 <a href="/"> <img src="../assets/logo.png" class=" mr-auto ml-auto"></a>
-
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/Ziad3QZ90Gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="mr-auto ml-auto" ></iframe>
-
+<div class="relative h-0 overflow-hidden max-w-full w-full" style="padding-bottom: 56.25%"
+ 	>
+<iframe src="https://www.youtube.com/embed/Ziad3QZ90Gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="absolute top-0 left-0 w-full h-full" ></iframe>
+</div>
 
 <h3 class="text-4xl text-center mb-6">My Past Projects:</h3>
 <ul class="text-2xl text-center w-80 mr-auto ml-auto space-y-4 ">
