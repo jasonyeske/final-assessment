@@ -13,8 +13,8 @@
    
     <li class="mt-5 hover:underline"><a href="./about">About</a></li>
     <li class="mt-5 hover:underline"><a href="./projects">My Projects</a></li>
-    <li class="mt-5 hover:underline"><a href="./SocialMedia">Social Media</a></li>
-  
+    <li class="mt-5 hover:underline"><a href="./socialmedia">Social Media</a></li>
+  <li class="mt-5 hover:underline"><a href="https://jasonyeske.github.io/code-journal/">Code Journal</a></li>
   
    </ul>
   

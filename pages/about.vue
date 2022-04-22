@@ -1,9 +1,10 @@
 <template>
    <div class="bg-gradient-to-b from-blue-300 to-yellow-300">
     <TheNavBar />
+    <a href="/"> <img src="../assets/logo.png" class=" mr-auto ml-auto"></a>
 <h1 class="text-4xl text-center">Who Am I?</h1>
 
-<img src="../assets/jason.jpg" class="mr-auto ml-auto w-1/2 rounded-full">
+<img src="../assets/jason.jpg" class="mr-auto ml-auto w-3/8 rounded-full">
 
 <div class="text-lg w-2/3 mr-auto ml-auto text-center  ">
 <p>My name is Jason. I was born and raised in Saskatchewan. 
