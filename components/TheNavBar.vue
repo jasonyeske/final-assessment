@@ -1,7 +1,7 @@
 <template>
     <div>
 
-<nav role="navigation" class="flex bg-gradient-to-b from-blue-200 to-blue-300 text-xl h-16">
+<nav role="navigation" class="flex bg-gradient-to-b from-blue-200 to-blue-300 text-xl h-24 text-center">
   
 
 
